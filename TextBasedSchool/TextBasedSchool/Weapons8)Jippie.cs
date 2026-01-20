@@ -19,7 +19,7 @@ namespace TextBasedSchool
                 wapen2.ShowStats();
                 wapen3.ShowStats();
 
-                
+
                 Console.WriteLine("\n--- Upgrades are being  processed... ---");
                 wapen1.UpgradeItem(5);   
                 wapen2.UpgradeItem(10);

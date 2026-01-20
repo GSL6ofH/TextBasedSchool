@@ -6,3 +6,11 @@ C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachte
 C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\obj\Debug\TextBasedSchool.exe
 C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\obj\Debug\TextBasedSchool.pdb
 C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\obj\Debug\TextBasedSchool.exe.config
+C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\bin\Debug\TextBasedSchool.exe.config
+C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\bin\Debug\TextBasedSchool.exe
+C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\bin\Debug\TextBasedSchool.pdb
+C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\obj\Debug\TextBasedSchool.csproj.AssemblyReference.cache
+C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\obj\Debug\TextBasedSchool.exe.config
+C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\obj\Debug\TextBasedSchool.csproj.CoreCompileInputs.cache
+C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\obj\Debug\TextBasedSchool.exe
+C:\java-en-processing\java en processing\school\Csharp-medals-speciale-opdrachten\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\TextBasedSchool\obj\Debug\TextBasedSchool.pdb
